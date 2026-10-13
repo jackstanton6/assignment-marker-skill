@@ -1,0 +1,10 @@
+{
+  "name": "assignment-marker-skill",
+  "description": "Your assignment is marked and scrutinised by six Claudes, at the end you have a list of improvements and a mark.",
+  "version": "1.0.0",
+  "author": {"name": "Jack Stanton", "url": "https://jackstanton.dev"},
+  "homepage": "https://github.com/jackstanton6/assignment-marker-skill",
+  "repository": "https://github.com/jackstanton6/assignment-marker-skill/",
+  "license": "GPLv3",
+  "keywords": ["claude-code", "claude-skills", "college", "university", "marking", "essay"]
+}
