@@ -1,0 +1,7 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "assignment-marker-skill",
+  "description": "A skill for Claude Code that marks your assignment against a rigid guideline.",
+  "owner": {"name": "Jack Stanton"},
+  "plugins": [{"name": "assignment-marker-skill", "description": "Your assignment is marked and scrutinised by six Claudes, at the end you have a list of improvements and a mark.", "source": "./", "category": "productivity", "author": {"name": "Jack Stanton", "url": "https://jackstanton.dev"}, "homepage": "https://github.com/jackstanton6/assignment-marker-skill"}]
+}
